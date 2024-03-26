@@ -63,3 +63,4 @@ ml_models_project/
 - Open datasets from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
 Feel free to extend the codebase with new datasets or models!
+<!-- Initial commit: Set up project with README, requirements.txt and .gitignore -->
