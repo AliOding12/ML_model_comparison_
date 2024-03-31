@@ -17,3 +17,4 @@ def get_models():
         "SVM": SVC(),
         "Naive Bayes": GaussianNB(),
     }
+# Add model definitions
