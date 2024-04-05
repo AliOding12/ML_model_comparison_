@@ -18,3 +18,4 @@ def get_models():
         "Naive Bayes": GaussianNB(),
     }
 # Add model definitions
+# Add more model architectures
