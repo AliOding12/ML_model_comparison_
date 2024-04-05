@@ -21,3 +21,4 @@ def plot_accuracy(results):
                  f"{score:.2f}", ha='center', color='black', fontsize=11)
     plt.tight_layout()
     plt.show()
+# Update utilities and data loader with improvements
