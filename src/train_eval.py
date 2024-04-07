@@ -18,3 +18,4 @@ def detailed_report(y_true, y_pred):
     matrix = confusion_matrix(y_true, y_pred)
     return report, matrix
 # Add training and evaluation script
+# Enhance training loop
