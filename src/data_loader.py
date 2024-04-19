@@ -56,3 +56,4 @@ def load_titanic(test_size=0.3, random_state=42):
 
 # Add data loader script
 # Update utilities and data loader with improvements
+# Refactor data loading and training

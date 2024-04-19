@@ -20,3 +20,4 @@ def detailed_report(y_true, y_pred):
 # Add training and evaluation script
 # Enhance training loop
 # Fix bugs in models and evaluation
+# Refactor data loading and training
