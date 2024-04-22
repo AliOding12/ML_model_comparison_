@@ -64,3 +64,4 @@ ml_models_project/
 
 Feel free to extend the codebase with new datasets or models!
 <!-- Initial commit: Set up project with README, requirements.txt and .gitignore -->
+<!-- Update README with project overview and usage -->
