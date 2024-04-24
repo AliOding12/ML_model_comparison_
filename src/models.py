@@ -20,3 +20,4 @@ def get_models():
 # Add model definitions
 # Add more model architectures
 # Fix bugs in models and evaluation
+# Optimize model parameters
