@@ -23,3 +23,4 @@ def plot_accuracy(results):
     plt.show()
 # Update utilities and data loader with improvements
 # Add helper functions to utils
+# Minor fixes in utils
